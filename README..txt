@@ -1,3 +1,1 @@
-sndfbvkjhsfvhsfv
-
-Actualización README.txt
+Modificado después de git revert
